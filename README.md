@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @davidfotsa
-- 👀 I’m interested in the development of utility applications for the optimization of physical and living systems
-<!---
-- 🌱 I’m currently learning ...
---->
-- 💞️ I’m looking for collaborators.
-- 📫 You can reach me jauresfotsa@gmail.com
-
+- 👋 Hello, I am @davidfotsa
+- 👀 I am interested in the development of utility applications for the simulation and optimization of physical systems (reliability, maintenance management, logistics and transportation, networks) and living systems (epidemiology, ecology, chemostat). I use R, Python and Scilab.
+- 🌱 I recently discovered the COIN-OR project and I plan to be more interested in it.
+- 💞️ I am open to collaborations.
+- 📫 You can reach me at jauresfotsa@gmail.com or mjdfotsa@univ-ndere.cm
 <!---
 davidfotsa/davidfotsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
